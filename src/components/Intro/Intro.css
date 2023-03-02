@@ -1,0 +1,50 @@
+.Intro{
+    text-align:center;
+    padding:10vh 0 0 0;
+    background-color: lightslategray;
+    background-image:url("../../../public/images/bg-dark.png");
+    background-position: center;
+    background-size: cover;
+    max-width:100%;
+    
+}
+
+.Intro img{
+    max-height:35vh;
+    max-width:35vw;
+    border:solid white 2px;
+    padding:10px;
+    border-radius: 10000px;
+}
+.imgBox::after{
+    content:"";
+    display:block;
+    height:50px;
+    background-color:white;
+    margin:0px auto 0px auto;
+    width:2px;
+}
+.postImgBox::before, .postImgBox::after{
+    content:"";
+    display:block;
+    height:2px;
+    background-color:white;
+    margin:0px auto 20px auto;
+    width:80%;
+}
+
+.postImgBox{
+    color:white;
+}
+.postImgBox h1{
+    text-transform:uppercase;
+}
+
+.Intro::after{
+    content:"";
+    display:block;
+    height:100px;
+    background-color:black;
+    margin:0px auto 0px auto;
+    width:100vw;
+}

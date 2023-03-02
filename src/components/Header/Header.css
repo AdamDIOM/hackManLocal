@@ -1,0 +1,24 @@
+.Header{
+    max-width:100%;
+    background-color:purple;
+    color:white;
+    object-fit:contain;
+}
+
+.HeaderNav img{
+    height:60px;
+}
+
+.Header nav{
+    color:white !important;
+    padding-right:150px;
+}
+
+.navOption{
+    color:white;
+}
+
+.navOption:hover{
+    color:orange;
+}
+

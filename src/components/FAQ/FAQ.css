@@ -1,0 +1,46 @@
+.faqContent{
+    text-align:center;
+    padding:10px 5vw;
+    max-width:100%; 
+}
+.FAQ{
+    max-width:100%;
+    padding:0;
+    margin:0;
+    background-color:plum;
+    background-image:url("../../../public/images/hackMan-splash-boat.png");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    /* min-height: 75vh; */
+}
+
+.FAQ a{
+    color: black;
+}
+
+.FAQ a:hover{
+    color: orange;
+    text-decoration-style: dotted;
+}
+
+.qa{
+    /* display:block; */
+    border-radius: 10px;
+    /* background-color: rgba(255, 255, 255, 0.75); */
+}
+.qaInner{
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.75);
+    margin: 1%;
+    height: 90%;
+}
+.FAQ::after{
+    content:"";
+    display:block;
+    height:100px;
+    background-color:black;
+    margin:0;
+    padding:0;
+    width:100vw;
+}

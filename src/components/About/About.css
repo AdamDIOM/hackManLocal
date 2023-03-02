@@ -1,0 +1,44 @@
+.aboutContent{
+    text-align:center;
+    padding:10px 5vw;
+    max-width:100%;
+    
+}
+.About{
+    max-width:100%;
+    padding:0;
+    margin:0;
+    background-color: orange;
+    background-image:url("../../../public/images/hackMan-splash-blank.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.About a{
+    color: black;
+}
+
+.About a:hover{
+    text-decoration-style: dotted;
+    color: purple;
+}
+
+.About img{
+    width:100%;
+    max-width:50vh;
+}
+
+.About p{
+    text-align: justify;
+}
+
+
+.About::after{
+    content:"";
+    display:block;
+    height:100px;
+    background-color:black;
+    margin:0;
+    padding:0;
+    width:100vw;
+}

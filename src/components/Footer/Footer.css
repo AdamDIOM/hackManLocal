@@ -1,0 +1,16 @@
+.Footer{
+    max-width:100%;
+    background-color:purple;
+    color:white;
+    object-fit:contain;
+    text-align: center;
+}
+
+.Footer a{
+    color: white;
+}
+
+.Footer a:hover{
+    color: orange;
+    text-decoration-style: dotted;
+}
