@@ -4,8 +4,8 @@ import { Container, Row, Col } from "react-bootstrap";
 export default function FAQ(){
 
     return(
-        <Container className="FAQ" id="faq">
-            <h1>Frequently Asked Questions</h1>
+        <Container className="FAQ">
+            <h1 id="faq">Frequently Asked Questions</h1>
             <Row className="faqContent">
                 
                 <Col sm={12} md={6} lg={4} className="qa">
@@ -62,9 +62,9 @@ export default function FAQ(){
                         <p className="answer"><b>Yes</b><br />We follow Code Club's <a href="https://codeclub.im/about-us/#gr" rel="noreferrer" target="_blank">Golden Rules</a>. Put short, be respectful and willing to learn.</p>
                     </div>
                 </Col>
-                <Col sm={12} md={12} lg={12} className="qa" id="    contact">
+                <Col sm={12} md={12} lg={12} className="qa">
                     <div className="qaInner">
-                        <h3>If you have any more questions, feel free to get in touch via <a href="mailto:hi@hackman.im">hi@hackman.im</a></h3>
+                        <h3 id="contact">If you have any more questions, feel free to get in touch via <a href="mailto:hi@hackman.im">hi@hackman.im</a></h3>
                     </div>
                 </Col>
             </Row>
