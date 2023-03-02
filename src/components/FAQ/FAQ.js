@@ -23,7 +23,7 @@ export default function FAQ(){
                 <Col sm={12} md={6} lg={4} className="qa">
                     <div className="qaInner">
                         <p className="question">Can under 18s take part in hackMan Local?</p>
-                        <p className="answer"><b>Yes</b><br />Any student on the Isle of Man, be it through schools, sixth form or UCM is welcome to take part.</p>
+                        <p className="answer"><b>Yes</b><br />Any student on the Isle of Man is welcome to take part, be it through schools, sixth form / UCM, or uni students who are on-island.</p>
                     </div>
                 </Col>
                 <Col sm={12} md={6} lg={4} className="qa">
