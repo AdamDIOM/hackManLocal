@@ -43,7 +43,7 @@
 .Intro::after{
     content:"";
     display:block;
-    height:100px;
+    height:50px;
     background-color:black;
     margin:0px auto 0px auto;
     width:100vw;

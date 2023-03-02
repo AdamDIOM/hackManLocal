@@ -39,7 +39,7 @@
 .FAQ::after{
     content:"";
     display:block;
-    height:100px;
+    height:0px;
     background-color:black;
     margin:0;
     padding:0;
