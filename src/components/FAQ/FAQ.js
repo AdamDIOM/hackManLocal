@@ -62,7 +62,7 @@ export default function FAQ(){
                         <p className="answer"><b>Yes</b><br />We follow Code Club's <a href="https://codeclub.im/about-us/#gr" rel="noreferrer" target="_blank">Golden Rules</a>. Put short, be respectful and willing to learn.</p>
                     </div>
                 </Col>
-                <Col sm={12} md={12} lg={12} className="qa">
+                <Col sm={12} md={6} lg={12} className="qa">
                     <div className="qaInner">
                         <h3 id="contact">If you have any more questions, feel free to get in touch via <a href="mailto:hi@hackman.im">hi@hackman.im</a></h3>
                     </div>

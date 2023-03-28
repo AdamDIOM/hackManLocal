@@ -10,9 +10,9 @@ export default function Intro(){
                 <div className="imgBox"><div className="imgInner"><img src="images/logo-dark.png" alt="hackMan logo"/></div></div>
                 <div className="postImgBox">
                     <h1>hackMan Local</h1>
-                    <h2>Coming soon...</h2>
-                    <h2>Isle of Man</h2>
-                    <h3>2023</h3>
+                    <h2>Eagle Lab</h2>
+                    <h2>Douglas, Isle of Man</h2>
+                    <h3>19/08/2023</h3>
                     <h3>The Isle of Man's First Ever Hackathon</h3>
                 </div>
                 <br />
