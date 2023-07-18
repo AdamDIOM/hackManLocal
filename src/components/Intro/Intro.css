@@ -2,7 +2,7 @@
     text-align:center;
     padding:10vh 0 0 0;
     background-color: lightslategray;
-    background-image:url("../../../public/images/bg-dark.png");
+    background-image:url("../../../public/images/bg-firework.jpeg");
     background-position: center;
     background-size: cover;
     max-width:100%;
@@ -47,4 +47,18 @@
     background-color:black;
     margin:0px auto 0px auto;
     width:100vw;
+}
+
+.innerPIB{
+    background-color: rgba(64,38,103,0.6);
+    border-radius:10px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:70%;
+    text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
 }
