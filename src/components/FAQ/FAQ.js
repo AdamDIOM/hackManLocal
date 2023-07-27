@@ -11,7 +11,7 @@ export default function FAQ(){
                 <Col sm={12} md={6} lg={4} className="qa">
                     <div className="qaInner">
                         <p className="question">Who can attend hackMan?</p>
-                        <p className="answer"><b>Anyone can attend hackMan</b><br />The event is open to any student on the Isle of Man. If you can get yourself to our venue, you're good to go!</p>
+                        <p className="answer"><b>Students</b><br />The event is open to any student (up to undergraduate level) on the Isle of Man. If you can get yourself to our venue, you're good to go!</p>
                     </div>
                 </Col>
                 <Col sm={12} md={6} lg={4} className="qa">
@@ -58,7 +58,7 @@ export default function FAQ(){
                 </Col>
                 <Col sm={12} md={6} lg={4} className="qa">
                     <div className="qaInner">
-                        <p className="question">Is there a Code of Conduct</p>
+                        <p className="question">Is there a Code of Conduct?</p>
                         <p className="answer"><b>Yes</b><br />We follow Code Club's <a href="https://codeclub.im/about-us/#gr" rel="noreferrer" target="_blank">Golden Rules</a>. Put short, be respectful and willing to learn.</p>
                     </div>
                 </Col>

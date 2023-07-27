@@ -22,7 +22,7 @@ export default function About(){
                         </Col>
                         <Col sm={12} md={6}>
                             <h2>Where are we?</h2>
-                            <p>Whilst a final location is not yet determined, it will definitely be somewhere on the Isle of Man.</p>
+                            <p>hackMan Local 2023 will be held in the Barclays Eagle Lab, on Victoria Street in Douglas. We look forward to seeing you there!</p>
                         </Col>
                     </Row>
                 </Col>
