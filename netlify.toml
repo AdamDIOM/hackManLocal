@@ -2,3 +2,8 @@
 from = "/register"
 to = "https://forms.office.com/e/Ghi89vKy61"
 status = 301
+
+[[redirects]]
+from = "/hacker"
+to = "https://www.webroot.com/us/en/resources/glossary/what-is-a-hacker#:~:text=A%20hacker%20is%20just%20a%20person%20who%20uses%20computer%20programming%20or%20technical%20skills%20to%20overcome%20a%20challenge%20or%20problem."
+status = 301
