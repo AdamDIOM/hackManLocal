@@ -14,7 +14,7 @@ export default function Header(){
                         <Nav className="me-auto">
                         </Nav>
                         <Nav>
-                            <Nav.Link className="navOption" href="https://https://hackman.im/register" target="_blank">Register</Nav.Link>
+                            <Nav.Link className="navOption" href="https://hackman.im/register" target="_blank">Register</Nav.Link>
                             <Nav.Link className="navOption" href="#about">About</Nav.Link>
                             <Nav.Link className="navOption" href="#faq">FAQ</Nav.Link>
                             {/* <Nav.Link className="navOption" href="#sponsor">Sponsor</Nav.Link> */}
