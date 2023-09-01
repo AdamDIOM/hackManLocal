@@ -38,6 +38,18 @@
     background-color: rgba(255, 255, 255, 0.75);
     margin: 1%;
     height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.aSponsorInner:hover img{
+    opacity: 50%;
+}
+
+.aSponsorInner img{
+    max-width:90%;
+    max-height:90%;
 }
 
 .Sponsor::after{
@@ -52,4 +64,16 @@
 
 .sponsorText{
     padding:0 10px;
+}
+
+.Sponsor .header{
+    width:100%;
+}
+
+.Sponsor .header h2 span{
+    background-color:rgba(0,0,0,0.75);
+    border-radius: 10px;
+    padding:5px 10px;
+    width:auto;
+    margin:auto;
 }

@@ -3,8 +3,9 @@ import About from './components/About/About';
 import FAQ from './components/FAQ/FAQ';
 import Header from './components/Header/Header';
 import Intro from './components/Intro/Intro';
-//import Sponsor from './components/Sponsor/Sponsor';
+import Sponsor from './components/Sponsor/Sponsor';
 import Footer from './components/Footer/Footer';
+// import Freebies from './components/Freebies/Freebies';
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
       <Intro />
       <About />
       <FAQ />
-      {/* <Sponsor /> */}
+      <Sponsor />
+      {/* <Freebies /> */}
       <Footer />
     </div>
   );
