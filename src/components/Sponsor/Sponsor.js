@@ -16,7 +16,7 @@ export default function Sponsor(){
                     <a href="https://paragon.co.im" target="_blank" rel="noreferrer"><div className="aSponsorInner"><img alt="Paragon Recruitment" src="images/partners/paragon.png" /></div></a>
                 </Col>
                 <Col sm={12} md={6} lg={6} className="aSponsor">
-                <a href="https://pdms.com" target="_blank" rel="noreferrer"><div className="aSponsorInner"><img alt="PDMS" src="images/partners/pdms.png" /></div></a>
+                <a href="https://www.pdms.com" target="_blank" rel="noreferrer"><div className="aSponsorInner"><img alt="PDMS" src="images/partners/pdms.png" /></div></a>
                 </Col>
 
                 <div className="header"><h2><span>Secondary Partners</span></h2></div>
