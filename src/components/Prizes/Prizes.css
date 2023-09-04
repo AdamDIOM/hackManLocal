@@ -32,7 +32,7 @@
     text-align: justify;
 }
 
-.Prizes span{
+.Prizes p, .Prizes span{
     font-size: 20px;
 }
 
