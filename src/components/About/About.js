@@ -15,7 +15,7 @@ export default function About(){
                     <h2>What is hackMan Local?</h2>
                     <p>hackMan Local is the Isle of Man's first ever hackathon, held in September 2023. We are looking to host hackers (competitors) from all across the island, competing to create the best piece of software in just one day.</p>
                     <h2>Where are we?</h2>
-                    <p>hackMan Local 2023 will be held in the QVHclub on Victoria Street in Douglas. We look forward to seeing you there!</p>
+                    <p>Whilst our venue is currently not confirmed, hackMan Local 2023 will be held on the Isle of Man. We look forward to seeing you there!</p>
                 </Col>
             </Row>
         </Container>
