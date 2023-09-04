@@ -1,0 +1,47 @@
+.aboutContent{
+    text-align:center;
+    padding:10px 5vw;
+    max-width:100%;
+    
+}
+.Prizes{
+    max-width:100%;
+    padding:0;
+    margin:0;
+    background-color: orange;
+    background-image:url("../../../public/images/bg-mtn-overlay.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.Prizes a{
+    color: black;
+}
+
+.Prizes a:hover{
+    text-decoration-style: dotted;
+    color: purple;
+}
+
+.Prizes img{
+    width:100%;
+    max-width:50vh;
+}
+
+.Prizes p{
+    text-align: justify;
+}
+
+.Prizes span{
+    font-size: 20px;
+}
+
+.Prizes::after{
+    content:"";
+    display:block;
+    height:50px;
+    background-color:black;
+    margin:0;
+    padding:0;
+    width:100vw;
+}

@@ -5,7 +5,7 @@ import Header from './components/Header/Header';
 import Intro from './components/Intro/Intro';
 import Sponsor from './components/Sponsor/Sponsor';
 import Footer from './components/Footer/Footer';
-// import Freebies from './components/Freebies/Freebies';
+import Prizes from './components/Prizes/Prizes';
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
       <About />
       <FAQ />
       <Sponsor />
-      {/* <Freebies /> */}
+      <Prizes />
       <Footer />
     </div>
   );
